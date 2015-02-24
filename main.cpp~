@@ -1,0 +1,10 @@
+#include "TicTacToe.h"
+
+int main(){
+	//create the game	
+	TicTacToe game;
+
+	game.playGame();
+
+	return 0;
+}
